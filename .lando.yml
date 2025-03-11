@@ -1,4 +1,4 @@
-name: drupal-base
+name: drupal10-pratise
 recipe: lagoon
 config:
   flavor: drupal
